@@ -1,0 +1,45 @@
+# Virtual Environment
+hf_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model files (general)
+*.h5
+*.keras
+*.pkl
+
+# Training checkpoints (don't push these)
+results/
+
+# Allow finetuned model to be tracked (needed for deployment)
+!finetuned_industrial_model/
+
+# Hugging Face cache
+.cache/
+*.lock
+
+# Dataset folders
+data/
+datasets/
+
+# Logs
+logs/
+*.log
+runs/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

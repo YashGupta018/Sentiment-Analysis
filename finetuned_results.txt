@@ -1,0 +1,21 @@
+FINE-TUNED MODEL RESULTS (After Fine-tuning on Industrial Data)
+==================================================
+
+Report: The motor is running smoothly with no unusual vibrations detected.
+Prediction: POSITIVE (Confidence: 99.99%)
+
+Report: Bearing temperature has exceeded safe limits and requires immediate attention.
+Prediction: NEGATIVE (Confidence: 99.97%)
+
+Report: Routine inspection completed, all systems operating within normal parameters.
+Prediction: POSITIVE (Confidence: 99.99%)
+
+Report: Critical failure detected in the cooling system, production halted.
+Prediction: NEGATIVE (Confidence: 99.98%)
+
+Report: The robotic arm calibration was successful and performance has improved significantly.
+Prediction: POSITIVE (Confidence: 99.99%)
+
+Report: Insulation damage found on multiple cables, urgent replacement needed.
+Prediction: NEGATIVE (Confidence: 99.99%)
+
